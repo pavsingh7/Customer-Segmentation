@@ -8,4 +8,4 @@ We shall examine, implement and choose to use either a **K-means** clustering al
 
   1. K-Means Clustering Algorithm
   2. Partitioning Around Medoids (PAM) Clustering
-  3.Gaussian Mixture Model Clustering
+  3. Gaussian Mixture Model Clustering
